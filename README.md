@@ -1,5 +1,4 @@
-![Full Stack Developer]
-(https://i.ibb.co/vQ59dny/Blue-Geometric-Technology-Linked-In-Banner-3.png)
+![Full Stack Developer](https://i.ibb.co/vQ59dny/Blue-Geometric-Technology-Linked-In-Banner-3.png)
 
 ### Hi there 👋, I'm Abdullah Al Masud
 #### Full Stack Developer
