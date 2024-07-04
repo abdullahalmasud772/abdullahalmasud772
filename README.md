@@ -6,10 +6,14 @@
 
 I have skills in various subjects. I can do any kind of work if I show it a few times. One of the best things I can do is run a computer. I have skills in various aspects of computer. That is - all kinds of work on data entry, web research, web scraping, MS Office, social media marketing, Facebook marketing, e-mail marketing, all kinds of writing, file conversion, etc.
 
+| Header 1    | Header 2    |
+| ----------- | ----------- |
+| Row 1 Col 1 | Row 1 Col 2 |
+| Row 2 Col 1 | Row 2 Col 2 |
+
 ## My Skill Set
 
-<table>
-   
+<table>   
 <tr>
 <td valign="top" width="33%">
 ### Frontend  
