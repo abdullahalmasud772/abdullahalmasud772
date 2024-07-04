@@ -15,7 +15,5 @@ Skills: JAVASCRIPT / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalmasudpersonal&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullahalmasudpersonal)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdullahalmasudpersonal)  
 
