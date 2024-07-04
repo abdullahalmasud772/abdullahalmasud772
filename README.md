@@ -7,9 +7,9 @@ I have skills in various subjects. I can do any kind of work if I show it a few 
 
 Skills: JAVASCRIPT / REACT / JS / HTML / CSS
 
-<>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmasudpersonal)]
-</>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalmasudpersonal&show_icons=true)  
 
