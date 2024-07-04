@@ -59,7 +59,7 @@ I have skills in various subjects. I can do any kind of work if I show it a few 
 <div align="center">
 
 <a target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px" />
+<img  src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px" />(https://www.linkedin.com/in/mirhussainmurtaza/)
 </a>&nbsp;</br>
 
  <!-- <a href="https://twitter.com/iamrishavanand" target="_blank">
