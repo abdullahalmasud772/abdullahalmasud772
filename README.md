@@ -32,9 +32,9 @@ I have skills in various subjects. I can do any kind of work if I show it a few 
 </table> -->
    
 ### Backend Technology
-<table> 
+<!-- <table> 
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="33%"> -->
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -46,12 +46,15 @@ I have skills in various subjects. I can do any kind of work if I show it a few 
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
 </div>
-</td>
-
+<!-- </td>
 </tr>
-</table>
+</table> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmasudpersonal)
+
+<p align='center'>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmasudpersonal" />
+</p>
 
 <p align='center'>
    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
