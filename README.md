@@ -10,6 +10,8 @@ I have skills in various subjects. I can do any kind of work if I show it a few 
 
 ### Frontend Technology
 
+</br>
+
 <!-- <table>
 <tr>
 <td valign="top" width="33%"> -->
@@ -32,6 +34,7 @@ I have skills in various subjects. I can do any kind of work if I show it a few 
 </table> -->
    
 ### Backend Technology
+</br>
 <!-- <table> 
 <tr>
 <td valign="top" width="33%"> -->
