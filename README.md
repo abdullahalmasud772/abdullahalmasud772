@@ -7,10 +7,6 @@ I have skills in various subjects. I can do any kind of work if I show it a few 
 
 Skills: JAVASCRIPT / REACT / JS / HTML / CSS
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdullahalmasudpersonal)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdullahalmasudpersonal)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmasudpersonal)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalmasudpersonal&show_icons=true)  
