@@ -7,7 +7,8 @@ I have skills in various subjects. I can do any kind of work if I show it a few 
 
 Skills: JAVASCRIPT / REACT / JS / HTML / CSS
 
-## :computer: Technologies that I know
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdullahalmasud0/)   
 
