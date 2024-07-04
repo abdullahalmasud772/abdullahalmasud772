@@ -19,4 +19,3 @@ Skills: JAVASCRIPT / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdullahalmasudpersonal)  
 
-![Profile views](https://gpvc.arturio.dev/abdullahalmasudpersonal)  
