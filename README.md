@@ -11,7 +11,7 @@ Skills: JAVASCRIPT / REACT / JS / HTML / CSS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmasudpersonal)
 
 <p align='center'>
-   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+   <img width="60%" src="[https://github-readme-streak-stats.herokuapp.com?user=mir-hussain](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmasudpersonal)&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalmasudpersonal&show_icons=true)  
