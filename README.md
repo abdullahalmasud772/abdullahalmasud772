@@ -1,4 +1,4 @@
-![Full Stack Developer]([https://i.ibb.co/QpYJ7d5/web-developer-web-developer.jpg](https://i.ibb.co/QH2n3kC/FULL-STACK-DEVELOPER-1.jpg))
+![Full Stack Developer](https://i.ibb.co/QpYJ7d5/web-developer-web-developer.jpg](https://i.ibb.co/QH2n3kC/FULL-STACK-DEVELOPER-1.jpg)
 
 ### Hi there 👋, I'm Abdullah Al Masud
 #### Full Stack Developer
