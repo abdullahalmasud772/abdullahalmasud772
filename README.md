@@ -63,7 +63,7 @@ c71610
 
 <div align="center">
 <a href="https://mail.google.com/mail/u/1/#sent?compose=new" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%34A853.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/gmail-%BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>  
 <a href="https://www.linkedin.com/in/abdullahalmasud0" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
