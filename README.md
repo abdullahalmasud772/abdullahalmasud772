@@ -4,7 +4,7 @@
 
 #### Full Stack Developer
 
-I have skills in various subjects. I can do any kind of work if I show it a few times. One of the best things I can do is run a computer. I have skills in various aspects of computer. That is - all kinds of work on data entry, web research, web scraping, MS Office, social media marketing, Facebook marketing, e-mail marketing, all kinds of writing, file conversion, etc.
+I am a keen, hard working, reliable and excellent time keeper. I am a bright and receptive person, able to communicate well with people at all levels. I am good at working using my own initiative and I am flexible in my approach to work duties. I have a good sense of humour and a pleasant approach.
 
 ## My Skill Set
 
