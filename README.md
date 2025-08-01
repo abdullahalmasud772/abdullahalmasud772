@@ -3,8 +3,9 @@
 ### Hi there 👋, I'm Abdullah Al Masud
 
 #### Full Stack Developer
-
-I am a keen, hard working, reliable and excellent time keeper. I am a bright and receptive person, able to communicate well with people at all levels. I am good at working using my own initiative and I am flexible in my approach to work duties. I have a good sense of humour and a pleasant approach.
+I'm a Full Stack Developer working with Vue, React, Node.js, Express, Django, PostgreSQL, and MongoDB.
+I build scalable, real-time web applications with clean UI, structured APIs, authentication, and secure data handling.
+<!-- I am a keen, hard working, reliable and excellent time keeper. I am a bright and receptive person, able to communicate well with people at all levels. I am good at working using my own initiative and I am flexible in my approach to work duties. I have a good sense of humour and a pleasant approach. -->
 
 ## My Skill Set
 
@@ -55,7 +56,7 @@ I am a keen, hard working, reliable and excellent time keeper. I am a bright and
 <a href="https://x.com/Abdulla14032407" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/abdullahal.masud.5891" target="_blank">
+<a href="https://www.facebook.com/abdullahalmasud772@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 </div>
