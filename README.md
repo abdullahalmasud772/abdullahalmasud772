@@ -43,8 +43,6 @@ I am a keen, hard working, reliable and excellent time keeper. I am a bright and
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
 </div>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmasudpersonal) 
-
 ## Connect with me
 
 <div align="center">
@@ -60,25 +58,17 @@ I am a keen, hard working, reliable and excellent time keeper. I am a bright and
 <a href="https://www.facebook.com/abdullahal.masud.5891" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-</div>  
-<br/>
-
-<br/>
+</div>
 
 ## Language Stats  
 <p align='center'>
 <img width="60%", height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmasudpersonal&show_icons=true&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmasudpersonal&hide_border=true&layout=compact" align="center" /></div>  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalmasudpersonal&show_icons=true) 
 
 ## Github Stats  
 <p align='center'>
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=abdullahalmasudpersonal&show_icons=true&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdullahalmasudpersonal) 
 
 <p align='center'>
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalmasudpersonal&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
