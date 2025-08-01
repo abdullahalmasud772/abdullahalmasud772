@@ -3,8 +3,10 @@
 ### Hi there 👋, I'm Abdullah Al Masud
 
 #### Full Stack Developer
-I'm a Full Stack Developer working with Vue, React, Node.js, Express, Django, PostgreSQL, and MongoDB.
-I build scalable, real-time web applications with clean UI, structured APIs, authentication, and secure data handling.
+I'm a Full Stack Developer working with Vue, React, Node.js, Express, Django, PostgreSQL, and MongoDB. I focus on building scalable, real-time web applications with clean UI, well-structured backend APIs, authentication, and secure data handling. I enjoy solving real-world problems through practical and efficient solutions.
+<!--I'm a Full Stack Developer working with Vue, React, Node.js, Express, Django, PostgreSQL, and MongoDB.
+I build scalable, real-time web applications with clean UI, structured APIs, authentication, and secure data handling. -->
+
 <!-- I am a keen, hard working, reliable and excellent time keeper. I am a bright and receptive person, able to communicate well with people at all levels. I am good at working using my own initiative and I am flexible in my approach to work duties. I have a good sense of humour and a pleasant approach. -->
 
 ## My Skill Set
