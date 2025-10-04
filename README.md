@@ -52,7 +52,7 @@ I build scalable, real-time web applications with clean UI, structured APIs, aut
 <a href="https://mail.google.com/mail/u/1/#sent?compose=new" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%4285F4.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.linkedin.com/in/abdullahalmasud0" target="_blank">
+<a href="https://www.linkedin.com/in/abdullahalmasud772" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://x.com/Abdulla14032407" target="_blank">
@@ -65,7 +65,7 @@ I build scalable, real-time web applications with clean UI, structured APIs, aut
 
 ## Language Stats  
 <p align='center'>
-<img width="60%", height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmasudpersonal&show_icons=true&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+<img width="60%", height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmasud772&show_icons=true&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 ## Github Stats  
@@ -74,11 +74,11 @@ I build scalable, real-time web applications with clean UI, structured APIs, aut
 </p>
 
 <p align='center'>
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalmasudpersonal&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalmasud772&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdullahalmasudpersonal)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdullahalmasud772)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=abdullahalmasudpersonal&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=abdullahalmasud772&&style=flat-square" align="center" />
 </div>  
