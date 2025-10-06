@@ -65,20 +65,20 @@ I build scalable, real-time web applications with clean UI, structured APIs, aut
 
 ## Language Stats  
 <p align='center'>
-<img width="60%", height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmasud772&show_icons=true&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+<img width="60%", height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmasudpersonal&show_icons=true&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 ## Github Stats  
 <p align='center'>
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=abdullahalmasud772&show_icons=true&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=abdullahalmasudpersonal&show_icons=true&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 <p align='center'>
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalmasud772&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalmasudpersonal&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdullahalmasud772)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdullahalmasudpersonal)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=abdullahalmasud772&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=abdullahalmasudpersonal&&style=flat-square" align="center" />
 </div>  
